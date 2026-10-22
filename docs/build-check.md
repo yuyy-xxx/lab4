@@ -1,1 +1,1 @@
-build-check: npm run build
+build-check: npm run build && make build
