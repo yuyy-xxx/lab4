@@ -1,1 +1,1 @@
-build-check: echo hello-from-B
+build-check: echo hello-from-A-and-B
